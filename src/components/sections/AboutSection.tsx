@@ -38,13 +38,13 @@ export function AboutSection({ id }: AboutSectionProps) {
           </div>
           <div className="md:col-span-2 space-y-6 text-foreground/90">
             <p className="text-lg leading-relaxed">
-              Hello! I'm Omar Mostafiz, a dedicated Software Engineer with a knack for crafting efficient, scalable, and user-friendly applications. My journey in tech began with a fascination for how software can solve real-world problems, and this curiosity continues to drive my passion for learning and innovation.
+              Hello! I'm Omar Mostafiz, a Software Engineer with a strong focus on building intelligent, scalable, and user-centric solutions. My experience spans full-stack development, mobile apps, and AI-powered automation — including projects like a 24/7 virtual receptionist using VoIP and LLMs, and a generative content engine that automated WordPress publishing using GPT-4 and DALL·E and much more corportate projects.
             </p>
             <p className="text-lg leading-relaxed">
-              With expertise in full-stack development, I enjoy working across the technology spectrum, from designing intuitive front-end interfaces with React and Next.js to building robust back-end systems with Python and Node.js. I'm also proficient in leveraging cloud platforms like AWS to deploy and manage resilient applications.
+              I thrive in fast-paced environments where I can turn complex problems into elegant, maintainable code. Whether I'm developing fullstack applications, deploying cloud-native systems on AWS, designing APIs, or optimizing app performance, I'm driven by the challenge of building technology that makes life simpler and more efficient.
             </p>
             <p className="text-lg leading-relaxed">
-              Beyond coding, I'm a firm believer in collaborative teamwork, continuous improvement, and the power of good coffee. I'm always eager to take on new challenges and contribute to projects that make a positive impact.
+              Beyond coding, I'm a firm believer in collaborative teamwork, continuous improvement, and the power of teamwork. I'm always eager to take on new challenges and contribute to projects that make a positive impact.
             </p>
 
             <div className="mt-8">

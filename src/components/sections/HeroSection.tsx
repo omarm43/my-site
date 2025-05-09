@@ -26,7 +26,7 @@ export function HeroSection({ id }: HeroSectionProps) {
           <span className="block text-primary">Omar Mostafiz</span>
         </h1>
         <p className="mt-6 max-w-md mx-auto text-lg text-foreground/80 sm:text-xl md:mt-8 md:max-w-2xl animate-fade-in-up animate-delay-[400ms]">
-          I build scalable, user-centric web applications with React, Python, and modern Cloud technologies. Passionate about solving complex problems and creating delightful digital experiences.
+          A Software Engineer with a passion for building AI-powered tools, automation systems, and scalable full-stack applications. I've worked on everything from mobile apps and cloud platforms to LLM-integrated voice assistants, using technologies like React, Node.js, AWS, and many more to solve real-world problems. I love turning complex ideas into clean, efficient code that delivers real impact.
         </p>
         <div className="mt-8 flex flex-col sm:flex-row justify-center gap-4 animate-fade-in-up animate-delay-[600ms]">
           <Button size="lg" asChild className="shadow-lg transform hover:scale-105 transition-transform duration-300">
