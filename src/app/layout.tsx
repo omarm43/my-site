@@ -11,7 +11,7 @@ import { Toaster } from "@/components/ui/toaster";
 // These CSS variables should be applied to the <html> tag to be globally available.
 
 export const metadata: Metadata = {
-  title: 'Omar Mostafiz - Software Engineer | Portfolio',
+  title: 'Omar Mostafiz - Portfolio',
   description: 'Portfolio of Omar Mostafiz, a Software Engineer specializing in React, Python, and Cloud technologies. Explore projects, skills, and experience.',
   keywords: 'software engineer, portfolio, omar mostafiz, react, python, cloud, web developer, full stack developer',
 };

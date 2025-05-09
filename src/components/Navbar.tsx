@@ -31,12 +31,12 @@ export function Navbar() {
     };
 
     window.addEventListener('scroll', handleScroll);
-    handleScroll(); 
+    handleScroll();
 
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const NavLinksContent = ({isMobile = false}: {isMobile?: boolean}) => (
+  const NavLinksContent = ({ isMobile = false }: { isMobile?: boolean }) => (
     NAV_LINKS.map((link) => (
       <Button
         key={link.id}
@@ -92,7 +92,7 @@ export function Navbar() {
               <Mail className="h-5 w-5" />
             </a>
           </Button>
-          
+
           <div className="md:hidden">
             <Sheet>
               <SheetTrigger asChild>
