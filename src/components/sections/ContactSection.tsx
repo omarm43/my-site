@@ -40,7 +40,7 @@ export function ContactSection({ id }: ContactSectionProps) {
             <div className="space-y-3">
               <Button variant="outline" asChild className="w-full justify-start text-left">
                 <a href={`mailto:${SOCIAL_LINKS.email}`} target="_blank" rel="noopener noreferrer">
-                  <Mail className="mr-3 h-5 w-5 text-primary" /> {SOCIAL_LINKS.email}
+                  <Mail className="mr-3 h-5 w-5 text-primary" /> {SOCIAL_LINKS.email.replace("@", "[at]").replace(/\./g, "[dot]")}
                 </a>
               </Button>
               <Button variant="outline" asChild className="w-full justify-start text-left">
