@@ -21,7 +21,7 @@ export function ContactSection({ id }: ContactSectionProps) {
           <div className="md:col-span-1 flex justify-center">
             <Avatar className="w-48 h-48 md:w-64 md:h-64 border-4 border-primary shadow-lg">
               <Image
-                src="/images/omar2.jpg"
+                src="/images/omar4.jpg"
                 alt="Omar Mostafiz"
                 width={256}
                 height={256}
