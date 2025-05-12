@@ -27,7 +27,7 @@ export function AboutSection({ id }: AboutSectionProps) {
           <div className="md:col-span-1 flex justify-center">
             <Avatar className="w-48 h-48 md:w-64 md:h-64 border-4 border-primary shadow-lg">
               <Image
-                src="/images/omar3.jpg"
+                src="/images/omar.jpg"
                 alt="Omar Mostafiz"
                 width={256}
                 height={256}
