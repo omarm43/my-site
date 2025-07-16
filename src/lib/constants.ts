@@ -4,8 +4,8 @@ import { Code2, Cloud, Database, Smartphone, Brain, Briefcase, UserCircle, Messa
 export const NAV_LINKS = [
   { id: "home", label: "Home" },
   { id: "about", label: "About" },
-  { id: "projects", label: "Projects" },
   { id: "experience", label: "Experience" },
+  { id: "projects", label: "Projects" },
   { id: "skills", label: "Skills" },
   { id: "contact", label: "Contact" },
 ];
