@@ -30,7 +30,7 @@ export function HeroSection({ id }: HeroSectionProps) {
         </p>
         <div className="mt-8 flex flex-col sm:flex-row justify-center gap-4 animate-fade-in-up animate-delay-[600ms]">
           <Button size="lg" asChild className="shadow-lg transform hover:scale-105 transition-transform duration-300">
-            <a href="#projects">
+            <a href="#experience">
               View My Work <ArrowRight className="ml-2 h-5 w-5" />
             </a>
           </Button>
