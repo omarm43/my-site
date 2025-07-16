@@ -18,8 +18,8 @@ export default function HomePage() {
       <main className="flex flex-col">
         <HeroSection id="home" />
         <AboutSection id="about" />
-        <ProjectsSection id="projects" />
         <ExperienceSection id="experience" />
+        <ProjectsSection id="projects" />
         <SkillsSection id="skills" />
         <ContactSection id="contact" />
       </main>
